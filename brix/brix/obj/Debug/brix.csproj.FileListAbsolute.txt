@@ -1,0 +1,7 @@
+C:\itproject\New folder\brix\brix\bin\Debug\brix.exe.config
+C:\itproject\New folder\brix\brix\bin\Debug\brix.exe
+C:\itproject\New folder\brix\brix\bin\Debug\brix.pdb
+C:\itproject\New folder\brix\brix\obj\Debug\brix.csprojAssemblyReference.cache
+C:\itproject\New folder\brix\brix\obj\Debug\brix.csproj.CoreCompileInputs.cache
+C:\itproject\New folder\brix\brix\obj\Debug\brix.exe
+C:\itproject\New folder\brix\brix\obj\Debug\brix.pdb
